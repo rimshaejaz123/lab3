@@ -1,7 +1,2 @@
 print("helooooooowwwwwww")
 print("helooooooowwwwwww")
-print("hiiiii")
-print("helooooooowwwwwww")
-print("helooooooowwwwwww")
-print("hiiiii")
-print("hi there")
